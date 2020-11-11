@@ -1,0 +1,14 @@
+.home{
+    width: 100%;
+    height: 100vh;
+}
+.poster{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.potser__image{
+    object-fit: contain;
+    width: 100%;
+  
+}
